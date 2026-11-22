@@ -1,6 +1,6 @@
 cask "ascope" do
-  version "0.1.17"
-  sha256 "27acaade4ee3c8d664841e27421990774ed85da81dc2985b0c103654fd8073d2"
+  version "0.1.18"
+  sha256 "6a43da46254be30cc923a6c4ee31b14d904737adb48d3b09b656606f16cc69b7"
 
   url "https://api.ascope.app/releases/Ascope-#{version}.dmg?ref=brew"
   name "Ascope"
